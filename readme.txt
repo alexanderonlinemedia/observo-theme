@@ -3,7 +3,7 @@ Author: WordSkins.com
 Tags: black, blue, gray, pink, purple, white, yellow, dark, one-column, responsive-layout, custom-colors, custom-menu accessibility-ready, featured-images, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
 
 == Description ==
-Observo is a XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Observo is a responsive portfolio theme by WordSkins.com. Show off your projects or photography with this modern portfolio. Observo is designed with a mobile first approach, whcih makes it look great on all screen sizes!
 
 * Responsive Layout
 * Custom Header Logo
