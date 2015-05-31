@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Observo\n"
+"POT-Creation-Date: 2015-05-28 15:13-0500\n"
+"PO-Revision-Date: 2015-05-28 15:14-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "Sorry about that..."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:21
+msgid "Search"
+msgstr ""
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:46
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:62
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:63
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:69
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:16
+#, php-format
+msgid "Designed by <a href=\"%s\" rel=\"designer\">WordSkins.com</a>"
+msgstr ""
+
+#: footer.php:16 inc/control-panel.php:95
+msgid "http://www.wordskins.com/"
+msgstr ""
+
+#: footer.php:18
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:18
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: header.php:24 page-blank.php:18
+msgid "Skip to content"
+msgstr ""
+
+#: inc/control-panel.php:28
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This appears to be a new installation of the %1$s "
+"theme. To set up your theme, please <a href=\"%2$s\">click here to go to the "
+"theme options page</a></p></div>."
+msgstr ""
+
+#: inc/control-panel.php:34
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This appears to be a new installation of the %1$s "
+"theme. This message will disappear once you click save below.</a></p></div>."
+msgstr ""
+
+#: inc/control-panel.php:81
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: inc/control-panel.php:97
+msgid "WordSkins WordPress Themes"
+msgstr ""
+
+#: inc/control-panel.php:105 inc/control-panel.php:112
+msgid "General Settings"
+msgstr ""
+
+#: inc/control-panel.php:106 inc/control-panel.php:127
+msgid "Support"
+msgstr ""
+
+#: inc/control-panel.php:122
+msgid "Save Changes"
+msgstr ""
+
+#: inc/control-panel.php:128
+#, php-format
+msgid "For theme support, check out the %1$sWordskins Support Forum%2$s!"
+msgstr ""
+
+#: inc/control-panel.php:133
+#, php-format
+msgid ""
+"If you are not a member yet, %1$sclick here to save on your membership%2$s."
+msgstr ""
+
+#: inc/control-panel.php:497
+msgid "Suggested Size"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "Headers Font"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Body Font"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Main Accent Color"
+msgstr ""
+
+#: inc/extras.php:93
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/setup.php:47
+msgid "Header Nav Menu"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Older Posts"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Newer Posts"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "%title"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title"
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:88
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:127
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:133
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:136
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:143
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:160
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:162
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:164
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:166
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:166
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:168
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:168
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:170
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:170
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:174
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:176
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:178
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:180
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:182
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:184
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:186
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:188
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:190
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:194
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:196
+msgid "Archives"
+msgstr ""
+
+#: inc/widget-areas.php:9
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets/widget-single-ad.php:16
+msgid "Wordskins Single Ad"
+msgstr ""
+
+#: inc/widgets/widget-single-ad.php:19
+msgid "Display a single banner ad."
+msgstr ""
+
+#: inc/widgets/widget-single-ad.php:65
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-single-ad.php:69
+msgid "Banner Image:"
+msgstr ""
+
+#: inc/widgets/widget-single-ad.php:73
+msgid "Banner URL:"
+msgstr ""
+
+#: inc/widgets/widget-single-ad.php:77
+msgid "Banner Alt:"
+msgstr ""
+
+#: inc/widgets/widget-single-ad.php:81
+msgid "Banner Title:"
+msgstr ""
+
+#: parts/content-audio.php:32
+#, php-format
+msgid "<div class=\"read-more\"><a href=\"%s\">Listen</a></div>"
+msgstr ""
+
+#: parts/content-contact.php:16 parts/content-page.php:32
+#: parts/content-single.php:32 parts/content-sitemap.php:16
+msgid "Pages:"
+msgstr ""
+
+#: parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: parts/content-video.php:29
+#, php-format
+msgid "<div class=\"read-more\"><a href=\"%s\">Watch</a></div>"
+msgstr ""
+
+#: parts/content.php:40
+msgid "Continue Reading"
+msgstr ""
+
+#: parts/sharing.php:2
+msgid "Please Share"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""

@@ -1,0 +1,1 @@
+jQuery(function(e){e("#menu-toggle a").click(function(){e("#site-header").hasClass("open")?(e("#site-header").removeClass("open"),e("#social-icons").removeClass("open"),e("#menu-toggle a").removeClass("open"),e("#main-navigation").hide()):(e("#site-header").addClass("open"),e("#social-icons").addClass("open"),e("#menu-toggle a").addClass("open"),e("#main-navigation").show())})});
