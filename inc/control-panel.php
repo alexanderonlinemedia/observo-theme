@@ -125,14 +125,10 @@ class SettingsPage
                         </div>
                         <div class="pane" id="support-pane">
                             <h2><?php _e('Support', 'observo') ?></h2>
-                            <p><?php printf( __('For theme support, check out the %1$sWordskins Support Forum%2$s!', 'observo'),
-                                sprintf('<a href="%s">', esc_url('http://www.wordskins.com/forums')),
+                            <p><?php printf( __('For theme support, go to %1$sWordskins.Zendesk.com%2$s!', 'observo'),
+                                sprintf('<a href="%s">', esc_url('http://wordskins.zendesk.com')),
                                 '</a>');
-                            ?></p>
-                            <p><?php printf(
-                                __('If you are not a member yet, %1$sclick here to save on your membership%2$s.', 'observo'),
-                                sprintf('<a href="%s">', esc_url('http://www.wordskins.com/discount')),
-                                '</a>');?></p>                            
+                            ?></p>                           
                         </div>
                     </div>
                 </div>

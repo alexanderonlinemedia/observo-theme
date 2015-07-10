@@ -2,7 +2,14 @@
 // Creates Projects Custom Post Type
 function observo_projects_post_type_init() {
     $args = array(
-      'label' => 'Projects',
+        'label' => 'Projects',
+        'labels' => array(
+            'name_admin_bar' => __('Project', 'observo'),
+            'all_items' => __('All Projects', 'observo'),
+            'add_new_item' => __('Add New Project', 'observo'),
+            'edit_item' => __('Edit Project', 'observo'),
+            'search_items' => __('Search Projects', 'observo'),
+        ),
         'public' => true,
         'show_ui' => true,
         'capability_type' => 'post',

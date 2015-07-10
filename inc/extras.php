@@ -24,19 +24,6 @@ return '...';
 add_filter('excerpt_more', 'observo_excerpt_more');
 
 /**
- * Apply theme's stylesheet to the visual editor.
- *
- * @uses add_editor_style() Links a stylesheet to visual editor
- * @uses get_stylesheet_uri() Returns URI of theme stylesheet
- */
-function observo_add_editor_styles() {
-    add_editor_style( get_stylesheet_uri() );
-}
-add_action( 'init', 'observo_add_editor_styles' );
-
-
-
-/**
  * Get our wp_nav_menu() fallback, wp_page_menu(), to show a home link.
  *
  * @param array $args Configuration arguments.
